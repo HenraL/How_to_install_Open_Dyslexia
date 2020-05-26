@@ -1,0 +1,81 @@
+@font-face {
+    font-family: 'opendyslexic-bold';
+    src: url('fonts/opendyslexic-bold/opendyslexic-bold.eot') format('embedded-opentype'),
+    url('fonts/opendyslexic-bold/opendyslexic-bold.woff') format('woff'),
+    url('fonts/opendyslexic-bold/opendyslexic-bold.woff2') format('woff2'),
+    url('fonts/opendyslexic-bold/opendyslexic-bold.ttf') format('truetype'),
+    url('fonts/opendyslexic-bold/opendyslexic-bold.svg') format('svg');
+}
+@font-face {
+    font-family: 'opendyslexic-bolditalic';
+    src: url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.eot') format('embedded-opentype'),
+    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.woff') format('woff'),
+    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.woff2') format('woff2'),
+    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.ttf') format('truetype'),
+    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.svg') format('svg');
+}
+@font-face {
+    font-family: 'opendyslexic-italic';
+    src: url('fonts/opendyslexic-italic/opendyslexic-italic.eot') format('embedded-opentype'),
+    url('fonts/opendyslexic-italic/opendyslexic-italic.woff') format('woff'),
+    url('fonts/opendyslexic-italic/opendyslexic-italic.woff2') format('woff2'),
+    url('fonts/opendyslexic-italic/opendyslexic-italic.ttf') format('truetype'),
+    url('fonts/opendyslexic-italic/opendyslexic-italic.svg') format('svg');
+}
+@font-face {
+    font-family: '';
+    src: url('') format('embedded-opentype'),
+    url('') format('woff'),
+    url('') format('woff2'),
+    url('') format('truetype'),
+    url('') format('svg');
+}
+@font-face {
+    font-family: '';
+    src: url('') format('embedded-opentype'),
+    url('') format('woff'),
+    url('') format('woff2'),
+    url('') format('truetype'),
+    url('') format('svg');
+}
+@font-face {
+    font-family: '';
+    src: url('') format('embedded-opentype'),
+    url('') format('woff'),
+    url('') format('woff2'),
+    url('') format('truetype'),
+    url('') format('svg');
+}
+@font-face {
+    font-family: '';
+    src: url('') format('embedded-opentype'),
+    url('') format('woff'),
+    url('') format('woff2'),
+    url('') format('truetype'),
+    url('') format('svg');
+}
+@font-face {
+    font-family: '';
+    src: url('') format('embedded-opentype'),
+    url('') format('woff'),
+    url('') format('woff2'),
+    url('') format('truetype'),
+    url('') format('svg');
+}
+@font-face {
+    font-family: '';
+    src: url('') format('embedded-opentype'),
+    url('') format('woff'),
+    url('') format('woff2'),
+    url('') format('truetype'),
+    url('') format('svg');
+}
+
+/*@font-face {
+    font-family: 'opendyslexic-bold';
+    src: url('https://www.dropbox.com/s/zcjvnmkbpzsowg7/opendyslexic-bold.eot?dl=0') format('embedded-opentype'),
+    url('https://www.dropbox.com/s/5b6r471zwjqjq7d/opendyslexic-bold.woff?dl=0') format('woff'),
+    url('https://www.dropbox.com/s/2ehu5b4klv6x4ef/opendyslexic-bold.woff2?dl=0') format('woff2'),
+    url('https://www.dropbox.com/s/nqxyyr1l922b3xr/opendyslexic-bold.ttf?dl=0') format('truetype'),
+    url('https://www.dropbox.com/s/9t7vzcdkd2mekhm/opendyslexic-bold.svg?dl=0') format('svg');
+}*/
