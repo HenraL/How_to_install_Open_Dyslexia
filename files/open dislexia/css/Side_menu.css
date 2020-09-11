@@ -1,10 +1,10 @@
 /* a {
 	text-decoration: none;
 } */
-.ul_s {
+#ul_s {
 	padding-left: 0;
 }
-.li_s {
+#li_s {
 	list-style: none;
 }
 * {
