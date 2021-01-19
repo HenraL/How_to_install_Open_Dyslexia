@@ -1,74 +1,74 @@
 @font-face {
     font-family: 'opendyslexic-bold';
-    src: url('fonts/opendyslexic-bold/opendyslexic-bold.eot') format('embedded-opentype'),
-    url('fonts/opendyslexic-bold/opendyslexic-bold.woff') format('woff'),
-    url('fonts/opendyslexic-bold/opendyslexic-bold.woff2') format('woff2'),
-    url('fonts/opendyslexic-bold/opendyslexic-bold.ttf') format('truetype'),
-    url('fonts/opendyslexic-bold/opendyslexic-bold.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexic-bold/opendyslexic-bold.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexic-bold/opendyslexic-bold.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexic-bold/opendyslexic-bold.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexic-bold/opendyslexic-bold.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexic-bold/opendyslexic-bold.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexic-bolditalic';
-    src: url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.eot') format('embedded-opentype'),
-    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.woff') format('woff'),
-    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.woff2') format('woff2'),
-    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.ttf') format('truetype'),
-    url('fonts/opendyslexic-bolditalic/opendyslexic-bolditalic.svg') format('svg');
+    src: url('fonts/2018/opendyslexic-bolditalic/opendyslexic-bolditalic.eot') format('embedded-opentype'),
+    url('fonts/2018/opendyslexic-bolditalic/opendyslexic-bolditalic.woff') format('woff'),
+    url('fonts/2018/opendyslexic-bolditalic/opendyslexic-bolditalic.woff2') format('woff2'),
+    url('fonts/2018/opendyslexic-bolditalic/opendyslexic-bolditalic.ttf') format('truetype'),
+    url('fonts/2018/opendyslexic-bolditalic/opendyslexic-bolditalic.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexic-italic';
-    src: url('fonts/opendyslexic-italic/opendyslexic-italic.eot') format('embedded-opentype'),
-    url('fonts/opendyslexic-italic/opendyslexic-italic.woff') format('woff'),
-    url('fonts/opendyslexic-italic/opendyslexic-italic.woff2') format('woff2'),
-    url('fonts/opendyslexic-italic/opendyslexic-italic.ttf') format('truetype'),
-    url('fonts/opendyslexic-italic/opendyslexic-italic.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexic-italic/opendyslexic-italic.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexic-italic/opendyslexic-italic.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexic-italic/opendyslexic-italic.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexic-italic/opendyslexic-italic.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexic-italic/opendyslexic-italic.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexic-regular';
-    src: url('fonts/opendyslexic-regular/opendyslexic-regular.eot') format('embedded-opentype'),
-    url('fonts/opendyslexic-regular/opendyslexic-regular.woff') format('woff'),
-    url('fonts/opendyslexic-regular/opendyslexic-regular.woff2') format('woff2'),
-    url('fonts/opendyslexic-regular/opendyslexic-regular.ttf') format('truetype'),
-    url('fonts/opendyslexic-regular/opendyslexic-regular.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexic-regular/opendyslexic-regular.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexic-regular/opendyslexic-regular.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexic-regular/opendyslexic-regular.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexic-regular/opendyslexic-regular.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexic-regular/opendyslexic-regular.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexicalta-bold';
-    src: url('fonts/opendyslexicalta-bold/opendyslexicalta-bold.eot') format('embedded-opentype'),
-    url('fonts/opendyslexicalta-bold/opendyslexicalta-bold.woff') format('woff'),
-    url('fonts/opendyslexicalta-bold/opendyslexicalta-bold.woff2') format('woff2'),
-    url('fonts/opendyslexicalta-bold/opendyslexicalta-bold.ttf') format('truetype'),
-    url('fonts/opendyslexicalta-bold/opendyslexicalta-bold.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexicalta-bold/opendyslexicalta-bold.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bold/opendyslexicalta-bold.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bold/opendyslexicalta-bold.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bold/opendyslexicalta-bold.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bold/opendyslexicalta-bold.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexicalta-bolditalic';
-    src: url('fonts/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.eot') format('embedded-opentype'),
-    url('fonts/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.woff') format('woff'),
-    url('fonts/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.woff2') format('woff2'),
-    url('fonts/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.ttf') format('truetype'),
-    url('fonts/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-bolditalic/opendyslexicalta-bolditalic.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexicalta-italic';
-    src: url('fonts/opendyslexicalta-italic/opendyslexicalta-italic.eot') format('embedded-opentype'),
-    url('fonts/opendyslexicalta-italic/opendyslexicalta-italic.woff') format('woff'),
-    url('fonts/opendyslexicalta-italic/opendyslexicalta-italic.woff2') format('woff2'),
-    url('fonts/opendyslexicalta-italic/opendyslexicalta-italic.ttf') format('truetype'),
-    url('fonts/opendyslexicalta-italic/opendyslexicalta-italic.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexicalta-italic/opendyslexicalta-italic.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-italic/opendyslexicalta-italic.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexicalta-italic/opendyslexicalta-italic.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexicalta-italic/opendyslexicalta-italic.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-italic/opendyslexicalta-italic.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexicalta-regular';
-    src: url('fonts/opendyslexicalta-regular/opendyslexicalta-regular.eot') format('embedded-opentype'),
-    url('fonts/opendyslexicalta-regular/opendyslexicalta-regular.woff') format('woff'),
-    url('fonts/opendyslexicalta-regular/opendyslexicalta-regular.woff2') format('woff2'),
-    url('fonts/opendyslexicalta-regular/opendyslexicalta-regular.ttf') format('truetype'),
-    url('fonts/opendyslexicalta-regular/opendyslexicalta-regular.svg') format('svg');
+    src: url('fonts/fonts_from_2018/opendyslexicalta-regular/opendyslexicalta-regular.eot') format('embedded-opentype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-regular/opendyslexicalta-regular.woff') format('woff'),
+    url('fonts/fonts_from_2018/opendyslexicalta-regular/opendyslexicalta-regular.woff2') format('woff2'),
+    url('fonts/fonts_from_2018/opendyslexicalta-regular/opendyslexicalta-regular.ttf') format('truetype'),
+    url('fonts/fonts_from_2018/opendyslexicalta-regular/opendyslexicalta-regular.svg') format('svg');
 }
 @font-face {
     font-family: 'opendyslexicmono-regular';
-    src: url('fonts/opendyslexicmono-regular/opendyslexicmono-regular.eot') format('embedded-opentype'),
-    url('fonts/opendyslexicmono-regular/opendyslexicmono-regular.woff') format('woff'),
-    url('fonts/opendyslexicmono-regular/opendyslexicmono-regular.woff2') format('woff2'),
-    url('fonts/opendyslexicmono-regular/opendyslexicmono-regular.ttf') format('truetype'),
-    url('fonts/opendyslexicmono-regular/opendyslexicmono-regular.svg') format('svg');
+    src: url('fonts/font_from_2018/opendyslexicmono-regular/opendyslexicmono-regular.eot') format('embedded-opentype'),
+    url('fonts/font_from_2018/opendyslexicmono-regular/opendyslexicmono-regular.woff') format('woff'),
+    url('fonts/font_from_2018/opendyslexicmono-regular/opendyslexicmono-regular.woff2') format('woff2'),
+    url('fonts/font_from_2018/opendyslexicmono-regular/opendyslexicmono-regular.ttf') format('truetype'),
+    url('fonts/font_from_2018/opendyslexicmono-regular/opendyslexicmono-regular.svg') format('svg');
 }
 
 /*@font-face {
