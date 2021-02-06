@@ -1,0 +1,701 @@
+Structure du dossier
+Le num‚ro de s‚rie du volume est 00000028 D64F:47A2
+C:.
+³   desktop.ini
+³   font_change_js.html
+³   index.html
+³   les typos pour les dislexiques.html
+³   open dislexia.rar
+³   open dyslexia code.rtf
+³   open_dyslexia.txt
+³   _index.html_gzip
+³   
+ÃÄÄÄcss
+³   ³   dislexic_fonts_style_sheet.css
+³   ³   main.css
+³   ³   normalize.css
+³   ³   Side_menu.css
+³   ³   style_page.css
+³   ³   
+³   ÀÄÄÄfonts
+³       ³   blabla.txt
+³       ³   
+³       ÃÄÄÄfonts_from_2018
+³       ³   ÃÄÄÄopendyslexic-bold
+³       ³   ³       opendyslexic-bold.eot
+³       ³   ³       opendyslexic-bold.svg
+³       ³   ³       opendyslexic-bold.ttf
+³       ³   ³       opendyslexic-bold.woff
+³       ³   ³       opendyslexic-bold.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexic-bolditalic
+³       ³   ³       opendyslexic-bolditalic.eot
+³       ³   ³       opendyslexic-bolditalic.svg
+³       ³   ³       opendyslexic-bolditalic.ttf
+³       ³   ³       opendyslexic-bolditalic.woff
+³       ³   ³       opendyslexic-bolditalic.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexic-italic
+³       ³   ³       opendyslexic-italic.eot
+³       ³   ³       opendyslexic-italic.svg
+³       ³   ³       opendyslexic-italic.ttf
+³       ³   ³       opendyslexic-italic.woff
+³       ³   ³       opendyslexic-italic.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexic-regular
+³       ³   ³       opendyslexic-regular.eot
+³       ³   ³       opendyslexic-regular.svg
+³       ³   ³       opendyslexic-regular.ttf
+³       ³   ³       opendyslexic-regular.woff
+³       ³   ³       opendyslexic-regular.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexicalta-bold
+³       ³   ³       opendyslexicalta-bold.eot
+³       ³   ³       opendyslexicalta-bold.svg
+³       ³   ³       opendyslexicalta-bold.ttf
+³       ³   ³       opendyslexicalta-bold.woff
+³       ³   ³       opendyslexicalta-bold.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexicalta-bolditalic
+³       ³   ³       opendyslexicalta-bolditalic.eot
+³       ³   ³       opendyslexicalta-bolditalic.svg
+³       ³   ³       opendyslexicalta-bolditalic.ttf
+³       ³   ³       opendyslexicalta-bolditalic.woff
+³       ³   ³       opendyslexicalta-bolditalic.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexicalta-italic
+³       ³   ³       opendyslexicalta-italic.eot
+³       ³   ³       opendyslexicalta-italic.svg
+³       ³   ³       opendyslexicalta-italic.ttf
+³       ³   ³       opendyslexicalta-italic.woff
+³       ³   ³       opendyslexicalta-italic.woff2
+³       ³   ³       
+³       ³   ÃÄÄÄopendyslexicalta-regular
+³       ³   ³       opendyslexicalta-regular.eot
+³       ³   ³       opendyslexicalta-regular.svg
+³       ³   ³       opendyslexicalta-regular.ttf
+³       ³   ³       opendyslexicalta-regular.woff
+³       ³   ³       opendyslexicalta-regular.woff2
+³       ³   ³       
+³       ³   ÀÄÄÄopendyslexicmono-regular
+³       ³           opendyslexicmono-regular.eot
+³       ³           opendyslexicmono-regular.svg
+³       ³           opendyslexicmono-regular.ttf
+³       ³           opendyslexicmono-regular.woff
+³       ³           opendyslexicmono-regular.woff2
+³       ³           
+³       ÀÄÄÄfonts_from_2020
+³           ÃÄÄÄNew_ opendyslexic-0.9.10-beta-2019.09.16
+³           ³   ÃÄÄÄOpenDyslexic-Bold
+³           ³   ³       OpenDyslexic-Bold.eot
+³           ³   ³       OpenDyslexic-Bold.otf
+³           ³   ³       OpenDyslexic-Bold.svg
+³           ³   ³       OpenDyslexic-Bold.ttf
+³           ³   ³       OpenDyslexic-Bold.woff
+³           ³   ³       OpenDyslexic-Bold.woff2
+³           ³   ³       
+³           ³   ÃÄÄÄOpenDyslexic-Bold-Italic
+³           ³   ³       OpenDyslexic-Bold-Italic.eot
+³           ³   ³       OpenDyslexic-Bold-Italic.otf
+³           ³   ³       OpenDyslexic-Bold-Italic.svg
+³           ³   ³       OpenDyslexic-Bold-Italic.ttf
+³           ³   ³       OpenDyslexic-Bold-Italic.woff
+³           ³   ³       OpenDyslexic-Bold-Italic.woff2
+³           ³   ³       
+³           ³   ÃÄÄÄOpenDyslexic-Italic
+³           ³   ³       OpenDyslexic-Italic.eot
+³           ³   ³       OpenDyslexic-Italic.otf
+³           ³   ³       OpenDyslexic-Italic.svg
+³           ³   ³       OpenDyslexic-Italic.ttf
+³           ³   ³       OpenDyslexic-Italic.woff
+³           ³   ³       OpenDyslexic-Italic.woff2
+³           ³   ³       
+³           ³   ÀÄÄÄOpenDyslexic-Regular
+³           ³           OpenDyslexic-Regular.eot
+³           ³           OpenDyslexic-Regular.otf
+³           ³           OpenDyslexic-Regular.svg
+³           ³           OpenDyslexic-Regular.ttf
+³           ³           OpenDyslexic-Regular.woff
+³           ³           OpenDyslexic-Regular.woff2
+³           ³           
+³           ÃÄÄÄOpenDyslexic 3 (Beta - Windows, MacOS, Linux TTF)
+³           ³   ÃÄÄÄOpenDyslexic3-Bold
+³           ³   ³       OpenDyslexic3-Bold.eot
+³           ³   ³       OpenDyslexic3-Bold.otf
+³           ³   ³       OpenDyslexic3-Bold.svg
+³           ³   ³       OpenDyslexic3-Bold.ttf
+³           ³   ³       OpenDyslexic3-Bold.woff
+³           ³   ³       OpenDyslexic3-Bold.woff2
+³           ³   ³       
+³           ³   ÀÄÄÄOpenDyslexic3-Regular
+³           ³           OpenDyslexic3-Regular.eot
+³           ³           OpenDyslexic3-Regular.otf
+³           ³           OpenDyslexic3-Regular.svg
+³           ³           OpenDyslexic3-Regular.ttf
+³           ³           OpenDyslexic3-Regular.woff
+³           ³           OpenDyslexic3-Regular.woff2
+³           ³           
+³           ÀÄÄÄOpenDyslexic Mono (Windows, MacOS, Linux OTF)
+³               ÀÄÄÄOpenDyslexicMono-Regular
+³                       OpenDyslexicMono-Regular.eot
+³                       OpenDyslexicMono-Regular.otf
+³                       OpenDyslexicMono-Regular.svg
+³                       OpenDyslexicMono-Regular.ttf
+³                       OpenDyslexicMono-Regular.woff
+³                       OpenDyslexicMono-Regular.woff2
+³                       
+ÃÄÄÄexe
+³   ³   FontSizer.exe
+³   ³   
+³   ÀÄÄÄfontsizer icon
+³           email.txt
+³           FontSizer_MAINICON.ico
+³           
+ÃÄÄÄfont
+³   ³   open_dyslexic.zip
+³   ³   
+³   ÃÄÄÄeot
+³   ³   ÃÄÄÄfrom_2018
+³   ³   ³       opendyslexic-bold.eot
+³   ³   ³       opendyslexic-italic.eot
+³   ³   ³       opendyslexic-regular.eot
+³   ³   ³       opendyslexicalta-bold.eot
+³   ³   ³       opendyslexicalta-bolditalic.eot
+³   ³   ³       opendyslexicalta-italic.eot
+³   ³   ³       opendyslexicalta-regular.eot
+³   ³   ³       opendyslexicmono-regular.eot
+³   ³   ³       
+³   ³   ÀÄÄÄfrom_2020
+³   ³       ÀÄÄÄNew_ opendyslexic-0.9.10-beta-2019.09.16
+³   ³           ÃÄÄÄOpenDyslexic-Bold
+³   ³           ³       OpenDyslexic-Bold.eot
+³   ³           ³       
+³   ³           ÃÄÄÄOpenDyslexic-Bold-Italic
+³   ³           ³       OpenDyslexic-Bold-Italic.eot
+³   ³           ³       
+³   ³           ÃÄÄÄOpenDyslexic-Italic
+³   ³           ³       OpenDyslexic-Italic.eot
+³   ³           ³       
+³   ³           ÀÄÄÄOpenDyslexic-Regular
+³   ³                   OpenDyslexic-Regular.eot
+³   ³                   
+³   ÃÄÄÄles compress‚s
+³   ³   ÀÄÄÄles fait
+³   ³           opendyslexic-bold.zip
+³   ³           opendyslexic-bolditalic.zip
+³   ³           opendyslexic-italic.zip
+³   ³           opendyslexic-regular.zip
+³   ³           opendyslexicalta-bold.zip
+³   ³           opendyslexicalta-bolditalic.zip
+³   ³           opendyslexicalta-italic.zip
+³   ³           opendyslexicalta-regular.zip
+³   ³           opendyslexicmono-regular.zip
+³   ³           
+³   ÃÄÄÄotf
+³   ³   ³   README.txt
+³   ³   ³   
+³   ³   ÃÄÄÄfonts_from_2018
+³   ³   ³       OpenDyslexic-Bold.otf
+³   ³   ³       OpenDyslexic-BoldItalic.otf
+³   ³   ³       OpenDyslexic-Italic.otf
+³   ³   ³       OpenDyslexic-Regular.otf
+³   ³   ³       OpenDyslexicAlta-Bold.otf
+³   ³   ³       OpenDyslexicAlta-BoldItalic.otf
+³   ³   ³       OpenDyslexicAlta-Italic.otf
+³   ³   ³       OpenDyslexicAlta-Regular.otf
+³   ³   ³       OpenDyslexicMono-Regular.otf
+³   ³   ³       
+³   ³   ÀÄÄÄfrom_2020
+³   ³       ÃÄÄÄNew_ opendyslexic-0.9.10-beta-2019.09.16
+³   ³       ³   ÃÄÄÄOpenDyslexic-Bold
+³   ³       ³   ³       OpenDyslexic-Bold.otf
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄOpenDyslexic-Bold-Italic
+³   ³       ³   ³       OpenDyslexic-Bold-Italic.otf
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄOpenDyslexic-Italic
+³   ³       ³   ³       OpenDyslexic-Italic.otf
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄOpenDyslexic-Regular
+³   ³       ³           OpenDyslexic-Regular.otf
+³   ³       ³           
+³   ³       ÃÄÄÄOpenDyslexic 3 (Beta - Windows, MacOS, Linux TTF)
+³   ³       ³   ÃÄÄÄOpenDyslexic3-Bold
+³   ³       ³   ³       OpenDyslexic3-Bold.otf
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄOpenDyslexic3-Regular
+³   ³       ³           OpenDyslexic3-Regular.otf
+³   ³       ³           
+³   ³       ÃÄÄÄOpenDyslexic Mono (Windows, MacOS, Linux OTF)
+³   ³       ³   ÀÄÄÄOpenDyslexicMono-Regular
+³   ³       ³           OpenDyslexicMono-Regular.otf
+³   ³       ³           
+³   ³       ÃÄÄÄOpenDyslexic2 (Windows, MacOS, Linux OTF)
+³   ³       ³   ÃÄÄÄOpenDyslexic-Bold
+³   ³       ³   ³       OpenDyslexic-Bold.otf
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄOpenDyslexic-BoldItalic
+³   ³       ³   ³       OpenDyslexic-BoldItalic.otf
+³   ³       ³   ³       
+³   ³       ³   ÃÄÄÄOpenDyslexic-Italic
+³   ³       ³   ³       OpenDyslexic-Italic.otf
+³   ³       ³   ³       
+³   ³       ³   ÀÄÄÄOpenDyslexic-Regular
+³   ³       ³           OpenDyslexic-Regular.otf
+³   ³       ³           
+³   ³       ÀÄÄÄOpenDyslexic2 Alt-A (Windows, MacOS, Linux OTF)
+³   ³           ÃÄÄÄOpenDyslexicAlta-Bold
+³   ³           ³       OpenDyslexicAlta-Bold.otf
+³   ³           ³       
+³   ³           ÃÄÄÄOpenDyslexicAlta-BoldItalic
+³   ³           ³       OpenDyslexicAlta-BoldItalic.otf
+³   ³           ³       
+³   ³           ÃÄÄÄOpenDyslexicAlta-Italic
+³   ³           ³       OpenDyslexicAlta-Italic.otf
+³   ³           ³       
+³   ³           ÀÄÄÄOpenDyslexicAlta-Regular
+³   ³                   OpenDyslexicAlta-Regular.otf
+³   ³                   
+³   ÀÄÄÄttf
+³       ÃÄÄÄfonts_from_2018
+³       ³       opendyslexic-bold.ttf
+³       ³       opendyslexic-italic.ttf
+³       ³       opendyslexic-regular.ttf
+³       ³       opendyslexicalta-bold.ttf
+³       ³       opendyslexicalta-bolditalic.ttf
+³       ³       opendyslexicalta-italic.ttf
+³       ³       opendyslexicalta-regular.ttf
+³       ³       opendyslexicmono-regular.ttf
+³       ³       
+³       ÀÄÄÄfrom_2020
+³           ÃÄÄÄNew_ opendyslexic-0.9.10-beta-2019.09.16
+³           ³   ÃÄÄÄOpenDyslexic-Bold
+³           ³   ³       OpenDyslexic-Bold.ttf
+³           ³   ³       
+³           ³   ÃÄÄÄOpenDyslexic-Bold-Italic
+³           ³   ³       OpenDyslexic-Bold-Italic.ttf
+³           ³   ³       
+³           ³   ÃÄÄÄOpenDyslexic-Italic
+³           ³   ³       OpenDyslexic-Italic.ttf
+³           ³   ³       
+³           ³   ÀÄÄÄOpenDyslexic-Regular
+³           ³           OpenDyslexic-Regular.ttf
+³           ³           
+³           ÃÄÄÄOpenDyslexic 3 (Beta - Windows, MacOS, Linux TTF)
+³           ³   ÃÄÄÄOpenDyslexic3-Bold
+³           ³   ³       OpenDyslexic3-Bold.ttf
+³           ³   ³       
+³           ³   ÀÄÄÄOpenDyslexic3-Regular
+³           ³           OpenDyslexic3-Regular.ttf
+³           ³           
+³           ÃÄÄÄOpenDyslexic Mono (Windows, MacOS, Linux OTF)
+³           ³   ÀÄÄÄOpenDyslexicMono-Regular
+³           ³           OpenDyslexicMono-Regular.ttf
+³           ³           
+³           ÃÄÄÄOpenDyslexic2 (Windows, MacOS, Linux OTF)
+³           ³   ÃÄÄÄOpenDyslexic-Bold
+³           ³   ³       OpenDyslexic-Bold.ttf
+³           ³   ³       
+³           ³   ÃÄÄÄOpenDyslexic-BoldItalic
+³           ³   ³       OpenDyslexic-BoldItalic.ttf
+³           ³   ³       
+³           ³   ÃÄÄÄOpenDyslexic-Italic
+³           ³   ³       OpenDyslexic-Italic.ttf
+³           ³   ³       
+³           ³   ÀÄÄÄOpenDyslexic-Regular
+³           ³           OpenDyslexic-Regular.ttf
+³           ³           
+³           ÀÄÄÄOpenDyslexic2 Alt-A (Windows, MacOS, Linux OTF)
+³               ÃÄÄÄOpenDyslexicAlta-Bold
+³               ³       OpenDyslexicAlta-Bold.ttf
+³               ³       
+³               ÃÄÄÄOpenDyslexicAlta-BoldItalic
+³               ³       OpenDyslexicAlta-BoldItalic.ttf
+³               ³       
+³               ÃÄÄÄOpenDyslexicAlta-Italic
+³               ³       OpenDyslexicAlta-Italic.ttf
+³               ³       
+³               ÀÄÄÄOpenDyslexicAlta-Regular
+³                       OpenDyslexicAlta-Regular.ttf
+³                       
+ÃÄÄÄhtml
+³   ³   bla bla.txt
+³   ³   don't_inject.rar
+³   ³   
+³   ÃÄÄÄtest
+³   ³   ³   Slide-Out Menu - TemplateMonster Demo.html
+³   ³   ³   text sommaire .html
+³   ³   ³   
+³   ³   ÀÄÄÄSlide-Out Menu - TemplateMonster Demo_files
+³   ³           css
+³   ³           font-awesome.min.css
+³   ³           jquery.js.t‚l‚chargement
+³   ³           normalize.css
+³   ³           script.js.t‚l‚chargement
+³   ³           style.css
+³   ³           
+³   ÀÄÄÄvoici omment installer un fichier de police pour windiows
+³           voici omment installer un fichier de police pour windiows.docx
+³           voici omment installer un fichier de police pour windiows.pdf
+³           
+ÃÄÄÄimg
+³   ³   arrow-right.gif
+³   ³   arrow-right.jpg
+³   ³   font.gif
+³   ³   font.PNG
+³   ³   font.svg
+³   ³   fontcrop.gif
+³   ³   fontcrop.jpg
+³   ³   InkedWhatsApp Image 2020-03-29 at 17.21.05_LI.jpg
+³   ³   shell32_16783.gif
+³   ³   shell32_16783.ico
+³   ³   shell32_16783.xcf
+³   ³   
+³   ÃÄÄÄflŠches
+³   ³       arrow-down.png
+³   ³       arrow-left.png
+³   ³       arrow-right.png
+³   ³       arrow-up.png
+³   ³       Diap test.html
+³   ³       
+³   ÃÄÄÄlettres
+³   ³   ÃÄÄÄmajuscules
+³   ³   ³   ³   A open dislexia.PNG
+³   ³   ³   ³   B open dislexia.PNG
+³   ³   ³   ³   C open dislexia.PNG
+³   ³   ³   ³   D open dislexia.PNG
+³   ³   ³   ³   E open dislexia.PNG
+³   ³   ³   ³   F open dislexia.PNG
+³   ³   ³   ³   G open dislexia.PNG
+³   ³   ³   ³   H open dislexia.PNG
+³   ³   ³   ³   i (majuscule) open dislexia.PNG
+³   ³   ³   ³   J open dislexia.PNG
+³   ³   ³   ³   K open dislexia.PNG
+³   ³   ³   ³   L open dislexia.PNG
+³   ³   ³   ³   M open dislexia.PNG
+³   ³   ³   ³   N open dislexia.PNG
+³   ³   ³   ³   O open dislexia.PNG
+³   ³   ³   ³   P open dislexia.PNG
+³   ³   ³   ³   Q open dislexia.PNG
+³   ³   ³   ³   R open dislexia.PNG
+³   ³   ³   ³   S open dislexia.PNG
+³   ³   ³   ³   T open dislexia.PNG
+³   ³   ³   ³   U open dislexia.PNG
+³   ³   ³   ³   V open dislexia.PNG
+³   ³   ³   ³   W open dislexia.PNG
+³   ³   ³   ³   X open dislexia.PNG
+³   ³   ³   ³   Y open dislexia.PNG
+³   ³   ³   ³   Z open dislexia.PNG
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄsvg
+³   ³   ³           A open dislexia.svg
+³   ³   ³           B open dislexia.svg
+³   ³   ³           C open dislexia.svg
+³   ³   ³           D open dislexia.svg
+³   ³   ³           E open dislexia.svg
+³   ³   ³           F open dislexia.svg
+³   ³   ³           G open dislexia.svg
+³   ³   ³           H open dislexia.svg
+³   ³   ³           i (majuscule) open dislexia.svg
+³   ³   ³           J open dislexia.svg
+³   ³   ³           K open dislexia.svg
+³   ³   ³           L open dislexia.svg
+³   ³   ³           M open dislexia.svg
+³   ³   ³           N open dislexia.svg
+³   ³   ³           O open dislexia.svg
+³   ³   ³           P open dislexia.svg
+³   ³   ³           Q open dislexia.svg
+³   ³   ³           R open dislexia.svg
+³   ³   ³           S open dislexia.svg
+³   ³   ³           T open dislexia.svg
+³   ³   ³           U open dislexia.svg
+³   ³   ³           V open dislexia.svg
+³   ³   ³           W open dislexia.svg
+³   ³   ³           X open dislexia.svg
+³   ³   ³           Y open dislexia.svg
+³   ³   ³           Z open dislexia.svg
+³   ³   ³           
+³   ³   ÃÄÄÄminuscules
+³   ³   ³   ³   a open dislexia.PNG
+³   ³   ³   ³   b open dislexia.PNG
+³   ³   ³   ³   c open dislexia.PNG
+³   ³   ³   ³   d open dislexia.PNG
+³   ³   ³   ³   e open dislexia.PNG
+³   ³   ³   ³   f open dislexia.PNG
+³   ³   ³   ³   g open dislexia.PNG
+³   ³   ³   ³   h open dislexia.PNG
+³   ³   ³   ³   i open dislexia.PNG
+³   ³   ³   ³   j open dislexia.PNG
+³   ³   ³   ³   k open dislexia.PNG
+³   ³   ³   ³   l open dislexia.PNG
+³   ³   ³   ³   m open dislexia.PNG
+³   ³   ³   ³   n.PNG
+³   ³   ³   ³   o open dislexia.PNG
+³   ³   ³   ³   p open dislexia.PNG
+³   ³   ³   ³   q open dislexia.PNG
+³   ³   ³   ³   r open dislexia.PNG
+³   ³   ³   ³   s open dislexia.PNG
+³   ³   ³   ³   t open dislexia.PNG
+³   ³   ³   ³   u open dislexia.PNG
+³   ³   ³   ³   v open dislexia.PNG
+³   ³   ³   ³   w open dislexia.PNG
+³   ³   ³   ³   x open dislexia.PNG
+³   ³   ³   ³   y open dislexia.PNG
+³   ³   ³   ³   z open dislexia.PNG
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄsvg
+³   ³   ³           a open dislexia.svg
+³   ³   ³           b open dislexia.svg
+³   ³   ³           c open dislexia.svg
+³   ³   ³           d open dislexia.svg
+³   ³   ³           e open dislexia.svg
+³   ³   ³           f open dislexia.svg
+³   ³   ³           g open dislexia.svg
+³   ³   ³           h open dislexia.svg
+³   ³   ³           i open dislexia.svg
+³   ³   ³           j open dislexia.svg
+³   ³   ³           k open dislexia.svg
+³   ³   ³           l open dislexia.svg
+³   ³   ³           m open dislexia.svg
+³   ³   ³           n.svg
+³   ³   ³           o open dislexia.svg
+³   ³   ³           p open dislexia.svg
+³   ³   ³           u open dislexia.svg
+³   ³   ³           v open dislexia.svg
+³   ³   ³           w open dislexia.svg
+³   ³   ³           x open dislexia.svg
+³   ³   ³           y open dislexia.svg
+³   ³   ³           z open dislexia.svg
+³   ³   ³           
+³   ³   ÃÄÄÄnombre
+³   ³   ³   ³   0.PNG
+³   ³   ³   ³   1.PNG
+³   ³   ³   ³   2.PNG
+³   ³   ³   ³   3.PNG
+³   ³   ³   ³   4.PNG
+³   ³   ³   ³   5.PNG
+³   ³   ³   ³   6.PNG
+³   ³   ³   ³   7.PNG
+³   ³   ³   ³   8.PNG
+³   ³   ³   ³   9.PNG
+³   ³   ³   ³   
+³   ³   ³   ÀÄÄÄsvg
+³   ³   ³           0.svg
+³   ³   ³           1.svg
+³   ³   ³           2.svg
+³   ³   ³           3.svg
+³   ³   ³           4.svg
+³   ³   ³           5.svg
+³   ³   ³           6.svg
+³   ³   ³           7.svg
+³   ³   ³           8.svg
+³   ³   ³           9.svg
+³   ³   ³           
+³   ³   ÀÄÄÄsymboles+ponctuation
+³   ³       ³   !.PNG
+³   ³       ³   #.PNG
+³   ³       ³   $.PNG
+³   ³       ³   &.PNG
+³   ³       ³   '.PNG
+³   ³       ³   (.PNG
+³   ³       ³   +.PNG
+³   ³       ³   ,.PNG
+³   ³       ³   -.PNG
+³   ³       ³   =.PNG
+³   ³       ³   @.PNG
+³   ³       ³   antishlash.PNG
+³   ³       ³   ast‚risque..PNG
+³   ³       ³   deux points.PNG
+³   ³       ³   guillemets ouverts.PNG
+³   ³       ³   guillemts ferm‚.PNG
+³   ³       ³   inf‚rieur.PNG
+³   ³       ³   point d'interrogation..PNG
+³   ³       ³   point.PNG
+³   ³       ³   slash.PNG
+³   ³       ³   sup‚rieur.PNG
+³   ³       ³   tr‚ma.PNG
+³   ³       ³   [.PNG
+³   ³       ³   ].PNG
+³   ³       ³   ^.PNG
+³   ³       ³   _.PNG
+³   ³       ³   ~.PNG
+³   ³       ³   œ.PNG
+³   ³       ³   õ.PNG
+³   ³       ³   ý.PNG
+³   ³       ³   æ.PNG
+³   ³       ³   ….PNG
+³   ³       ³   ‡.PNG
+³   ³       ³   Š.PNG
+³   ³       ³   ‚.PNG
+³   ³       ³   
+³   ³       ÀÄÄÄsvg
+³   ³               !.svg
+³   ³               #.svg
+³   ³               $.svg
+³   ³               &.svg
+³   ³               '.svg
+³   ³               (.svg
+³   ³               +.svg
+³   ³               ,.svg
+³   ³               -.svg
+³   ³               =.svg
+³   ³               @.svg
+³   ³               antishlash.svg
+³   ³               ast‚risque..svg
+³   ³               deux points.svg
+³   ³               guillemets ouverts.svg
+³   ³               guillemts ferm‚.svg
+³   ³               inf‚rieur.svg
+³   ³               PNG.svg
+³   ³               point d'interrogation..svg
+³   ³               point.svg
+³   ³               slash.svg
+³   ³               sup‚rieur.svg
+³   ³               tr‚ma.svg
+³   ³               [.svg
+³   ³               ].svg
+³   ³               ^.svg
+³   ³               _.svg
+³   ³               ~.svg
+³   ³               œ.svg
+³   ³               õ.svg
+³   ³               ý.svg
+³   ³               æ.svg
+³   ³               ….svg
+³   ³               ‡.svg
+³   ³               Š.svg
+³   ³               ‚.svg
+³   ³               
+³   ÀÄÄÄtuto
+³       ÃÄÄÄAlternate fontsizer
+³       ³   ÀÄÄÄutilisation
+³       ³       ³   001 explorateur normal.PNG
+³       ³       ³   002 editeur par d‚fau.PNG
+³       ³       ³   003 boutton ‚diter.PNG
+³       ³       ³   004 fenˆtre pour changer la typo.PNG
+³       ³       ³   005 fenŠtre d'appercue de typo.PNG
+³       ³       ³   006 fenˆtrtre d‚dition avec typo.PNG
+³       ³       ³   007 boutton appercu.PNG
+³       ³       ³   007.1 barre typo.PNG
+³       ³       ³   009 fenŠtre pour changer la typo avec open dyslexic.PNG
+³       ³       ³   010  fenŠtre d'appercue de typo avec open dislexic.PNG
+³       ³       ³   011 boutton ok.PNG
+³       ³       ³   012 fenŠtre font police avec les typos open dyslexic qui vont ˆtres appliqu‚es.PNG
+³       ³       ³   013 boutton appliquer.PNG
+³       ³       ³   014 volet confirmation.PNG
+³       ³       ³   015 fenŠtre typo valid‚.PNG
+³       ³       ³   017 eplorateur aprŠs modification de typo.PNG
+³       ³       ³   018 alternate font sizer aprŠs modification.PNG
+³       ³       ³   019.1 registre avec erruere de typo.PNG
+³       ³       ³   019.2 boutton recharger depuis le registre.PNG
+³       ³       ³   019.3 boutton non de confirmation.PNG
+³       ³       ³   019.4 boutton annull‚ de la fenŠtre confirmation.PNG
+³       ³       ³   
+³       ³       ÀÄÄÄgif
+³       ³               001 explorateur normal.gif
+³       ³               002 editeur par d‚fau.gif
+³       ³               003 boutton ‚diter.gif
+³       ³               004 fenˆtre pour changer la typo.gif
+³       ³               005 fenŠtre d'appercue de typo.gif
+³       ³               006 fenˆtrtre d‚dition avec typo.gif
+³       ³               007 boutton appercu.gif
+³       ³               007.1 barre typo.gif
+³       ³               009 fenŠtre pour changer la typo avec open dyslexic.gif
+³       ³               010  fenŠtre d'appercue de typo avec open dislexic.gif
+³       ³               011 boutton ok.gif
+³       ³               013 boutton appliquer.gif
+³       ³               014 volet confirmation.gif
+³       ³               015 fenŠtre typo valid‚.gif
+³       ³               017 eplorateur aprŠs modification de typo.gif
+³       ³               018 alternate font sizer aprŠs modification.gif
+³       ³               019.1 registre avec erruere de typo.gif
+³       ³               019.2 boutton recharger depuis le registre.gif
+³       ³               019.3 boutton non de confirmation.gif
+³       ³               019.4 boutton annull‚ de la fenŠtre confirmation.gif
+³       ³               
+³       ÀÄÄÄwindows7
+³           ÀÄÄÄopendyslexia
+³               ³   1.GIF
+³               ³   10.PNG
+³               ³   11.PNG
+³               ³   12.PNG
+³               ³   13.PNG
+³               ³   14.PNG
+³               ³   15.PNG
+³               ³   16.PNG
+³               ³   17.PNG
+³               ³   18.PNG
+³               ³   19.PNG
+³               ³   2.PNG
+³               ³   21.PNG
+³               ³   22.PNG
+³               ³   23.PNG
+³               ³   24.PNG
+³               ³   25.PNG
+³               ³   26.PNG
+³               ³   27.PNG
+³               ³   28.PNG
+³               ³   29.PNG
+³               ³   3.PNG
+³               ³   30.PNG
+³               ³   31.PNG
+³               ³   32.PNG
+³               ³   33.PNG
+³               ³   34.PNG
+³               ³   35.PNG
+³               ³   36.PNG
+³               ³   37.PNG
+³               ³   4.PNG
+³               ³   5.PNG
+³               ³   6.PNG
+³               ³   7.PNG
+³               ³   8.PNG
+³               ³   9.PNG
+³               ³   
+³               ÀÄÄÄgif
+³                       1.GIF
+³                       10.gif
+³                       11.gif
+³                       12.gif
+³                       13.gif
+³                       14.gif
+³                       15.gif
+³                       16.gif
+³                       17.gif
+³                       18.gif
+³                       19.gif
+³                       2.gif
+³                       21.gif
+³                       22.gif
+³                       23.gif
+³                       24.gif
+³                       25.gif
+³                       26.gif
+³                       27.gif
+³                       28.gif
+³                       29.gif
+³                       3.gif
+³                       30.gif
+³                       31.gif
+³                       32.gif
+³                       33.gif
+³                       34.gif
+³                       35.gif
+³                       36.gif
+³                       37.gif
+³                       4.gif
+³                       5.gif
+³                       6.gif
+³                       7.gif
+³                       8.gif
+³                       9.gif
+³                       
+ÃÄÄÄjs
+³       script.js
+³       
+ÃÄÄÄle menu d‚roulant
+³       no_need_to_inject.rar
+³       
+ÀÄÄÄslide-out-menu-css3-jquery
+        no_need_to_inject.rar
+        
